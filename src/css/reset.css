@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    font-family: Microsoft Yahei,'微软雅黑',Helvetica,Arial,sans-serif;
+  }
+  ol,
+ul,
+li {
+    list-style: none;
+    list-style-image: none;
+    list-style-type: none;
+}
